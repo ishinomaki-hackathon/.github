@@ -23,9 +23,9 @@ Our project focuses on the following key aspects:
 - Coming soon
 
 ## Getting Started
-To get started with our project, please follow the instructions provided in the [Installation Guide](docs/INSTALLATION.md).
+To get started with our project, please follow the instructions provided in the [Installation Guide](#) #coming soon.
 
-## Contributors
+## Contributors {#people}
 - [Rakibul Haque](https://github.com/rakibulhaque9954)
 - [Kamada](https://github.com/kamadakohei)
 - [Wakamatsu](https://github.com/take-2405)
@@ -39,4 +39,4 @@ We would like to express our gratitude to the organizers of the Ishinomaki Hacka
 This project is currently not licensed. All rights are reserved. You may view the code and contribute to the project, but you do not have permission to use, modify, or distribute it.
 
 ## Contact
-For any inquiries or feedback, please contact us at [Contributer's section](Contributers).
+For any inquiries or feedback, please contact us at [Contributer's section](#people).
