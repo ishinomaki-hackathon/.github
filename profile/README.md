@@ -26,7 +26,7 @@ Our project focuses on the following key aspects:
 ## Getting Started
 To get started with our project, please follow the instructions provided in the [Installation Guide](#) #coming soon.
 
-## Contributors {#people}
+## Contributors{#people}
 - [Rakibul Haque](https://github.com/rakibulhaque9954)
 - [Kamada](https://github.com/kamadakohei)
 - [Wakamatsu](https://github.com/take-2405)
