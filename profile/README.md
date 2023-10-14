@@ -40,4 +40,4 @@ We would like to express our gratitude to the organizers of the Ishinomaki Hacka
 This project is currently not licensed. All rights are reserved. You may view the code and contribute to the project, but you do not have permission to use, modify, or distribute it.
 
 ## Contact
-For any inquiries or feedback, please contact us at **Contributer's section***.
+For any inquiries or feedback, please contact us at **Contributer's section**.
