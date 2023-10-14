@@ -1,5 +1,5 @@
 # Ishinomaki Hackathon - AI Security App
-＃[日本語](https://github.com/ishinomaki-hackathon/.github/blob/3977b41cfafffaa193b89045abc7dc4fcdab1f6e/profile/%E6%97%A5%E6%9C%AC%E8%AA%9EReadme.md)
+[日本語](https://github.com/ishinomaki-hackathon/.github/blob/3977b41cfafffaa193b89045abc7dc4fcdab1f6e/profile/%E6%97%A5%E6%9C%AC%E8%AA%9EReadme.md)
 
 ## Introduction
 Welcome to our repository for the Ishinomaki Hackathon project! In this hackathon, we aimed to create an innovative AI security app that focuses on the theme of the future. Our project is centered around the development of an Anomaly Detection System designed for public safety, particularly in identifying and addressing incidents involving fights using object detection and deep neural networks.
