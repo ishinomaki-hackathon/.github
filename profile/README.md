@@ -11,6 +11,9 @@ Welcome to our repository for the Ishinomaki Hackathon project! In this hackatho
 ### Problem Statement
 In today's world, public safety is of utmost importance, and rapid response to incidents such as fights is crucial to ensure the well-being of individuals and communities. To address this challenge, we set out to create an AI-based solution that can identify and report such incidents in real-time.
 
+### Preview
+**Here is gist of the outcome:**<br><br>
+![outcome git](https://github.com/ishinomaki-hackathon/trained_yolov8/blob/e65f75cfbfaf2314ae7e03533228ebd18c73ac11/results.gif)
 ### Solution
 Our project focuses on the following key aspects:
 - **Object Detection:** We have implemented object detection algorithms to identify specific actions and behaviors, such as physical altercations or fights, in live video streams or recorded footage.
@@ -23,7 +26,7 @@ Our project focuses on the following key aspects:
 3. **Alert Generation:** If a fight is confirmed, an alert is sent to the nearest police station. The alert includes vital information for a swift response.
 4. **Response:** Authorities receive the alert, enabling them to assess the situation and dispatch personnel to the scene as quickly as possible.
 
-## Repository Structure
+## Main Repository
 - [Here](https://github.com/ishinomaki-hackathon/trained_yolov8.git) is the main repository which contains the brain of the project.
 
 ## Learn More in Details
